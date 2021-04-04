@@ -1,0 +1,14 @@
+---
+
+env:
+  browser: true
+  es6: true
+
+overrides:
+  -
+    files:
+      - 'index.js'
+      - 'src/**/*.js'
+    extends:
+      - '@matthiaskunnen/eslint-config-base'
+    parser: 'babel-eslint'

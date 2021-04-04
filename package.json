@@ -1,0 +1,32 @@
+{
+    "name": "decoverto-playground",
+    "description": "Playground for Decoverto",
+    "main": "src/index.js",
+    "private": true,
+    "repository": "github:decoverto/example-javascript",
+    "author": "Matthias Kunnen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/decoverto/example-javascript/issues"
+    },
+    "homepage": "https://github.com/decoverto/example-javascript",
+    "scripts": {
+        "build": "parcel build index.html",
+        "lint": "eslint index.js \"src/**/*.js\"",
+        "start": "parcel index.html --open"
+    },
+    "dependencies": {
+        "bignumber.js": "^9.0.1",
+        "decoverto": "~0.2.3"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.13.14",
+        "@babel/core": "^7.13.14",
+        "@babel/plugin-proposal-class-properties": "^7.13.0",
+        "@babel/plugin-proposal-decorators": "^7.13.5",
+        "@matthiaskunnen/eslint-config-base": "^2.0.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.23.0",
+        "parcel": "^2.0.0-beta.2"
+    }
+}
