@@ -1,6 +1,6 @@
 {
-    "name": "decoverto-playground",
-    "description": "Playground for Decoverto",
+    "name": "decoverto-example-javascript",
+    "description": "JavaScript + Babel example for Decoverto",
     "main": "src/index.js",
     "private": true,
     "repository": "github:decoverto/example-javascript",
