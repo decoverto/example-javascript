@@ -2778,10 +2778,10 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-decoverto@~0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/decoverto/-/decoverto-0.2.3.tgz#b0d83f381d6c080f283bf3cc3062713bba81863b"
-  integrity sha512-T13APTaOvVXyCnoNqVJKXlB1cJ/y5HJ0pmXgwRUFJ+bXDDW2GYjsMvdw6yh39+s5x93GWKjXsvVh+SEOLRsVOQ==
+decoverto@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/decoverto/-/decoverto-1.0.0.tgz#27e3e2b600e9a7a73d4b03af168aeacade6b6f26"
+  integrity sha512-5+vcOpGRcO9RpvbJ/ctEUCPjo3fkwQcjcrVhHCYyzvI3VwPlNvpby48iBSxuyd52GdsGFg6hBI49BcnE06uo6w==
   dependencies:
     tslib "^2.0.1"
 
@@ -6678,9 +6678,9 @@ tslib@^1.9.0:
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
 tslib@^2.0.1:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
-  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
+  integrity sha512-gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==
 
 tty-browserify@^0.0.1:
   version "0.0.1"

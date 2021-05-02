@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "bignumber.js": "^9.0.1",
-        "decoverto": "~0.2.3"
+        "decoverto": "^1.0.0"
     },
     "devDependencies": {
         "@babel/cli": "^7.13.14",
